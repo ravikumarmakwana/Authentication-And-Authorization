@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationAndAuthorization.API", "JwtAuthenticationAndAuthorization.API\JwtAuthenticationAndAuthorization.API.csproj", "{81E9BA87-4799-4E83-B432-6200EC0236E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationAndAuthorization.Business", "JwtAuthenticationAndAuthorization.Business\JwtAuthenticationAndAuthorization.Business.csproj", "{FE3ED8B2-742C-4022-B4AE-13053E40ED68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationAndAuthorization.Data", "JwtAuthenticationAndAuthorization.Data\JwtAuthenticationAndAuthorization.Data.csproj", "{4C15701C-7330-4E35-930D-EDC4494A3E5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationAndAuthorization.Core", "JwtAuthenticationAndAuthorization.Core\JwtAuthenticationAndAuthorization.Core.csproj", "{CF378BE0-4BE3-4A34-B73C-8F544528BD27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationAndAuthorization.Entities", "JwtAuthenticationAndAuthorization.Entities\JwtAuthenticationAndAuthorization.Entities.csproj", "{B2BABC0D-7840-4C11-831D-3755505F75E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthenticationAndAuthorization.Models", "JwtAuthenticationAndAuthorization.Models\JwtAuthenticationAndAuthorization.Models.csproj", "{3A4A9862-DFEE-4F54-8E93-6227DE15E1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E9BA87-4799-4E83-B432-6200EC0236E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E9BA87-4799-4E83-B432-6200EC0236E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E9BA87-4799-4E83-B432-6200EC0236E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E9BA87-4799-4E83-B432-6200EC0236E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3ED8B2-742C-4022-B4AE-13053E40ED68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3ED8B2-742C-4022-B4AE-13053E40ED68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3ED8B2-742C-4022-B4AE-13053E40ED68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3ED8B2-742C-4022-B4AE-13053E40ED68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C15701C-7330-4E35-930D-EDC4494A3E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C15701C-7330-4E35-930D-EDC4494A3E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C15701C-7330-4E35-930D-EDC4494A3E5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C15701C-7330-4E35-930D-EDC4494A3E5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF378BE0-4BE3-4A34-B73C-8F544528BD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF378BE0-4BE3-4A34-B73C-8F544528BD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF378BE0-4BE3-4A34-B73C-8F544528BD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF378BE0-4BE3-4A34-B73C-8F544528BD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2BABC0D-7840-4C11-831D-3755505F75E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2BABC0D-7840-4C11-831D-3755505F75E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2BABC0D-7840-4C11-831D-3755505F75E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2BABC0D-7840-4C11-831D-3755505F75E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A4A9862-DFEE-4F54-8E93-6227DE15E1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4A9862-DFEE-4F54-8E93-6227DE15E1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4A9862-DFEE-4F54-8E93-6227DE15E1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4A9862-DFEE-4F54-8E93-6227DE15E1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DD5070F-8770-4E88-825F-CE5B0FEBFF71}
+	EndGlobalSection
+EndGlobal

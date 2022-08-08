@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Core\\JwtAuthenticationAndAuthorization.Core.csproj": {}
+  },
+  "projects": {
+    "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Core\\JwtAuthenticationAndAuthorization.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Core\\JwtAuthenticationAndAuthorization.Core.csproj",
+        "projectName": "JwtAuthenticationAndAuthorization.Core",
+        "projectPath": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Core\\JwtAuthenticationAndAuthorization.Core.csproj",
+        "packagesPath": "C:\\Users\\Ravikumar Makwana\\.nuget\\packages\\",
+        "outputPath": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ravikumar Makwana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Entities\\JwtAuthenticationAndAuthorization.Entities.csproj": {
+                "projectPath": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Entities\\JwtAuthenticationAndAuthorization.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Entities\\JwtAuthenticationAndAuthorization.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Entities\\JwtAuthenticationAndAuthorization.Entities.csproj",
+        "projectName": "JwtAuthenticationAndAuthorization.Entities",
+        "projectPath": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Entities\\JwtAuthenticationAndAuthorization.Entities.csproj",
+        "packagesPath": "C:\\Users\\Ravikumar Makwana\\.nuget\\packages\\",
+        "outputPath": "F:\\Authentication and Authorization in Dot NET\\JwtAuthenticationAndAuthorization\\JwtAuthenticationAndAuthorization.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ravikumar Makwana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.deps.json
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.pdb
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.csproj.AssemblyReference.cache
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.AssemblyInfoInputs.cache
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.AssemblyInfo.cs
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.csproj.CoreCompileInputs.cache
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\refint\JwtAuthenticationAndAuthorization.Entities.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.pdb
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Entities\obj\Debug\net6.0\ref\JwtAuthenticationAndAuthorization.Entities.dll

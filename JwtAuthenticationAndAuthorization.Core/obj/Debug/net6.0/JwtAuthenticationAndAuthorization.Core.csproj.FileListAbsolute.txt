@@ -1,0 +1,15 @@
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.deps.json
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.pdb
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.csproj.AssemblyReference.cache
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.AssemblyInfoInputs.cache
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.AssemblyInfo.cs
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.csproj.CoreCompileInputs.cache
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\refint\JwtAuthenticationAndAuthorization.Core.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.pdb
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\ref\JwtAuthenticationAndAuthorization.Core.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.dll
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\bin\Debug\net6.0\JwtAuthenticationAndAuthorization.Entities.pdb
+F:\Authentication and Authorization in Dot NET\JwtAuthenticationAndAuthorization\JwtAuthenticationAndAuthorization.Core\obj\Debug\net6.0\JwtAuthenticationAndAuthorization.Core.csproj.CopyComplete
